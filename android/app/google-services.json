@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670298270117",
+    "project_id": "latihan5-353ce",
+    "storage_bucket": "latihan5-353ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670298270117:android:6875799f40d4377de3a04c",
+        "android_client_info": {
+          "package_name": "com.example.tugas3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlOczrdECO2DZ3e5IElv8-NkuBh5TCfA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
